@@ -44,7 +44,7 @@ else:
 #folder = "shell:startup"
 #os.system(f"xcopy '{script_directory}' '{folder}'")
 
-SERVER_IP = "90.100.231.167"#mettre mon ip publique pour le port forwarding
+SERVER_IP = "ip"#mettre mon ip publique pour le port forwarding
 PORT = 6464
 #adresseIpCamera = socket.gethostname()
 
